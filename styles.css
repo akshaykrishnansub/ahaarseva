@@ -1,0 +1,502 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav1{
+    background-color:#99186e;
+    padding: 20px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.nav1 img{
+    height: 50px;
+    width: 150px;
+}
+
+.nav1 ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav1 li{
+    display: inline;
+}
+
+.nav1 a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav1 a:hover{
+    padding: 20px;
+    background-color: #8f2165;
+    transition: background-color 0.3s ease;
+}
+.menu-ham-toggle{
+    display: none;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+}
+
+.body-container{
+    background-image: url(./images/food-item.png);
+    padding: 30px;
+    box-shadow: 0px 0px 5px gray;
+}
+
+.body-container h2{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    color:#99186e;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.body-container p{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-weight: bold;
+}
+.body-container h3{
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body-container .btn{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    gap:15px;
+}
+button{
+    background-color: #8f2165;
+    color: white;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
+}
+button a{
+    color:white;
+    text-decoration: none;
+}
+
+.section2{
+    background-image: url(./images/sploffer.png);
+    padding: 20px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.section2 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #99186e;
+    font-size: 30px;
+}
+
+.section2 p{
+    display:flex;
+    justify-content: center;
+    color:black;
+    font-weight: bold;
+}
+
+.section2 h3{
+    display: flex;
+    justify-content: center;
+    color:#550d4f;
+}
+
+.menu-items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.menu-items h2{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    color: #8f2165;
+    font-size: 30px;
+}
+
+.footer-container{
+    background-color:#99186e;
+    padding:10px;
+}
+.footer-container p{
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-container span{
+    font-weight: lighter;
+}
+
+.nav-container-cbody{
+    background-color: #99186e;
+    padding: 20px;
+}
+
+.nav-container-cbody img{
+    width: 150px;
+    height: 50px;
+}
+
+.nav-container-cbody ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap:450px;
+}
+
+.contact-body{
+    justify-items: center;
+    padding: 20px;
+    background-image: url(./images/contact_bgi.png);
+}
+.footer-container-contact{
+    background-color: #99186e;
+    padding: 15px;
+    justify-items: center;
+}
+
+.nav-container-about{
+    background-color: #99186e;
+    padding: 20px;
+}
+
+.nav-container-about img{
+    width: 150px;
+    height:50px;
+}
+
+.nav-container-about ul{
+    display: flex;
+    list-style-type: none;
+    gap:400px;
+    align-items: center;
+}
+
+.about-us-body{
+    justify-items: center;
+    padding: 20px;
+}
+
+.about-us-body p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.about-our-team{
+    justify-items: center;
+    padding: 20px;
+    background-image: url(./images/aboutus_bgi.png);
+}
+
+.image-pos {
+  display: inline-block;
+  margin: 20px;
+  text-align: center;
+}
+
+.image-pos img {
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+
+.image-pos p {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+.footer-container-aboutus{
+    background-color: #99186e;
+    padding: 20px;
+    justify-items: center;
+}
+
+.nav-container-blog{
+    background-color: #99186e;
+    padding: 20px;
+}
+
+.nav-container-blog img{
+    width: 150px;
+    height: 50px;
+}
+
+.nav-container-blog ul{
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    align-items: center;
+    gap:400px;
+}
+
+.blog-container-body {
+    justify-items: center;
+    padding: 20px;
+    background-image: url(./images/blogs_bgi.png);
+}
+
+.blog-container-body a{
+    text-decoration: none;
+    color: black;
+}
+
+.blog-container-body a:hover{
+    text-decoration: underline;
+}
+
+.footer-container-blogs{
+    background-color: #99186e;
+    padding: 20px;
+    justify-items: center;
+}
+
+
+.body-container-blog1{
+    padding: 20px;
+    justify-items: center;
+    background-image: url(./images/blogs_bgi.png);
+}
+
+.footer-container-blog1{
+    background-color: #99186e;
+    padding: 30px;
+    justify-items: center;
+}
+
+.body-container-blog2{
+    padding: 80px;
+    justify-items: center;
+    background-image: url(./images/blogs_bgi.png);
+}
+
+.footer-container-blog2{
+    background-color: #99186e;
+    padding: 30px;
+    justify-items: center;   
+}
+
+.body-container-blog3{
+    padding: 80px;
+    justify-items: center;
+    background-image: url(./images/blogs_bgi.png);
+}
+
+.footer-container-blog3{
+    background-color: #99186e;
+    padding: 30px;
+    justify-items: center;   
+}
+
+.body-container-blog4{
+    padding: 20px;
+    justify-items: center;
+    background-image: url(./images/blogs_bgi.png);
+}
+
+.footer-container-blog4{
+    background-color: #99186e;
+    padding: 30px;
+    justify-items: center;
+}
+
+.body-container-fastfood{
+    justify-items: center;
+    padding: 20px;
+    background-image: url(./images/fast_food_services_bgi.png);
+}
+
+.body-container-fastfood h3{
+    justify-items: center;
+}
+
+
+.blog-container-fastfood p{
+    justify-items: center;
+}
+
+.item-container{
+    display: block;
+    text-align: center;
+}
+
+.item-container img{
+    width: 300px;
+    height: 300px;
+}
+
+.item-container p{
+    font-size: 30px;
+}
+
+.footer-container-fastfood{
+    background-color: #99186e;
+    padding: 30px;
+    justify-items: center;
+}
+
+
+.body-container-tiffinservice{
+    justify-items: center;
+    padding: 20px;
+    background-image: url(./images/tiffin_bgi.png);
+}
+
+.footer-container-tiffinservice{
+    background-color: #99186e;
+    padding: 30px;
+    justify-items: center;
+}
+
+/*Mobile view */
+@media screen and (min-width:0px) and (max-width:900px){
+    .body-container-tiffinservice{
+        padding: 20px;
+        background-size: cover;
+        background-position: center;
+    }
+    .body-container-tiffinservice p{
+        font-size: 25px;
+        text-align: center;
+    }
+    .body-container-tiffinservice h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    table{
+        width: 100%;
+        font-size: 15px;
+    }
+    td{
+        font-size: 15px;
+    }
+
+    .footer-container-tiffinservice{
+        padding: 20px;
+        text-align: center;
+    }
+
+    .body-container-fastfood{
+        text-align: center;
+        padding: 20px;
+        background-size: cover;
+        background-position: center;
+    }
+    .body-container-fastfood h2{
+        justify-items: center;
+        font-size: 20px;
+    }
+    .footer-container-fastfood{
+        padding: 20px;
+        text-align: center;
+    }
+    
+    .image-pos{
+         display: flex;
+         flex-direction: column;
+         align-items: center; /* centers items horizontally */
+         justify-content: center;
+         text-align: center;
+    }
+    .blog-container-body{
+        text-align: center;
+    }
+
+    .body-container-blog1 p{
+        text-align: center;
+    }
+    
+    .body-container-blog2 p{
+        text-align: center;
+    }
+    
+    .body-container-blog3 p{
+        text-align: center;
+    }
+    
+    .body-container-blog4 p{
+        text-align: center;
+    }
+    
+    .nav1 ul{
+        flex-direction: row;
+        gap: 15px;
+        background-color: #99186e;
+        display:none; /*hide menu initially*/
+    }
+    .nav1 ul.show{
+        display: block;
+    }
+    .menu-ham-toggle{
+        display: flex;
+        padding: 10px;
+    }
+    .nav1 img{
+        width: 100px;
+        margin-bottom: 10px;
+    }
+    .nav1 a{
+        display: block;
+        padding: 10px;
+        font-size: 20px;
+    }
+    .nav1 a:hover{
+        padding: 10px;
+        background-color: #8f2165;
+    }
+    .body-container{
+        text-align: center;
+    }
+
+    .contact-body{
+        font-size: 10px;
+        text-align: center;
+    }
+    .section2{
+        text-align: center;
+    }
+    .footer-container{
+        text-align: center;
+    }
+    .about-us-body{
+        text-align: center;
+    }
+    .footer-container-aboutus{
+        text-align: center;
+    }
+    .footer-container-blogs{
+        text-align: center;
+    }
+    .footer-container-contact{
+        text-align: center;
+    }
+
+}
