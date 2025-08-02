@@ -20,6 +20,7 @@
 - **HTML5** – Semantic structure
 - **CSS3** – Styling and responsive layout
 - **JavaScript (Vanilla)** – Minor interactive elements
+- - **Hostinger** – Web hosting platform
 
 ## 📸 Screenshots
 
@@ -31,6 +32,4 @@ Desktop View & Mobile View of Homepage:
   <img width="300" height="768" alt="Screenshot_20250802_084506" src="https://github.com/user-attachments/assets/30c35ee3-a432-4497-a098-9bce44ee5c4c" />
 </p>
 
-
-- **Hostinger** – Web hosting platform
 
