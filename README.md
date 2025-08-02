@@ -34,4 +34,37 @@
   <img width="300" height="768" alt="Screenshot_20250802_084506" src="https://github.com/user-attachments/assets/30c35ee3-a432-4497-a098-9bce44ee5c4c" />
 </p>
 
+## Folder Structure
+ahaarseva                         
+├─ images                         
+│  ├─ aboutus_bgi.png             
+│  ├─ ahar_icon.jpg               
+│  ├─ ahar_logo.jpg               
+│  ├─ blogs_bgi.png               
+│  ├─ chicken_roll.png            
+│  ├─ contact_bgi.png             
+│  ├─ egg_roll.png                
+│  ├─ fast_food_services_bgi.png  
+│  ├─ food-item.png               
+│  ├─ founder-1.jpg               
+│  ├─ founder-2.jpg               
+│  ├─ manchoorian.png             
+│  ├─ momos.png                   
+│  ├─ paneer_roll.png             
+│  ├─ sploffer.png                
+│  ├─ tiffin_bgi.png              
+│  └─ veg_roll.png                
+├─ aboutus.html                   
+├─ blog1.html                     
+├─ blog2.html                     
+├─ blog3.html                     
+├─ blog4.html                     
+├─ blogs.html                     
+├─ contactus.html                 
+├─ fastfoodservice.html           
+├─ index.html                     
+├─ script.js                      
+├─ styles.css                     
+└─ tiffinservice.html 
+
 
