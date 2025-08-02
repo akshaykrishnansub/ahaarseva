@@ -20,7 +20,7 @@
 - **HTML5** – Semantic structure
 - **CSS3** – Styling and responsive layout
 - **JavaScript (Vanilla)** – Minor interactive elements
-- - **Hostinger** – Web hosting platform
+- **Hostinger** – Web hosting platform
 
 ## 📸 Screenshots
 
