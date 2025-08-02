@@ -34,7 +34,7 @@
   <img width="300" height="768" alt="Screenshot_20250802_084506" src="https://github.com/user-attachments/assets/30c35ee3-a432-4497-a098-9bce44ee5c4c" />
 </p>
 
-## Folder Structure
+## 📁 Folder Structure
 ahaarseva                         
 ├─ images                         
 │  ├─ aboutus_bgi.png             
