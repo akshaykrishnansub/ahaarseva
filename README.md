@@ -23,9 +23,13 @@
 
 ## 📸 Screenshots
 
-Desktop View & Mobile View:
-<img width="1366" height="768" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/76d47368-fe6c-494c-9d88-0fa3bb039699" />
-<img width="300" height="768" alt="Screenshot_20250802_084506" src="https://github.com/user-attachments/assets/30c35ee3-a432-4497-a098-9bce44ee5c4c" />
+Desktop View & Mobile View of Homepage:
+<p align="center">
+  <img width="800" height="768" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/76d47368-fe6c-494c-9d88-0fa3bb039699" />
+</p>
+<p align="center">
+  <img width="300" height="768" alt="Screenshot_20250802_084506" src="https://github.com/user-attachments/assets/30c35ee3-a432-4497-a098-9bce44ee5c4c" />
+</p>
 
 
 - **Hostinger** – Web hosting platform
